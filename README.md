@@ -1,2 +1,2 @@
 # simbootstrap
-Bootstrap Template ported for Simmons styles
+Bootstrap Template customized for Simmons styles
