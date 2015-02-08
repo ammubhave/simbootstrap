@@ -2,4 +2,6 @@
 	"name": "Simmons Bootstrap",
 	"type": "default",
 	"document_root": "srv",
+	"path": "*:80/bootstrap",
+	"repo": "https://github.com/ammubhave/simbootstrap"
 }
